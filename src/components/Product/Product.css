@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+}
+.makeButton{
+    background:goldenrod;
+    padding:5px 10px;
+    border:1px solid gray;
+    border-radius: 10px;
+    font-weight: 400;
+    
+}
